@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PixabayImageLoaderApp</string>
+    <string name="API_KEY_PIXABAY">15237704-836e96083cf92922a553ab0cd</string>
+    <string name="loading_images_of"> No results found for %1$s !!!</string>
+</resources>
